@@ -1,7 +1,6 @@
 {
   "client_id": "https://cdn.jsdelivr.net/gh/DimosthenisK/openclaw-mcp-client@main/client.json",
   "client_name": "OpenClaw MCP",
-  "client_uri": "https://openclaw.afrino-macaroni.ts.net/",
   "redirect_uris": ["http://127.0.0.1:8989/oauth/callback"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
