@@ -2,6 +2,7 @@
   "client_id": "https://dimosthenisk.github.io/openclaw-mcp-client/mcp-client-gw.json",
   "client_name": "OpenClaw MCP",
   "redirect_uris": [
+    "https://openclaw.afrino-macaroni.ts.net/oauth/provider/callback",
     "https://openclaw.afrino-macaroni.ts.net/oauth/mcp/callback",
     "http://127.0.0.1:8989/oauth/callback"
   ],
